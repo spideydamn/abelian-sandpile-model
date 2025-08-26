@@ -1,0 +1,1 @@
+add_library(abeliansandpilemodel AbelianSandpileModel.cpp AbelianSandpileModel.h)
